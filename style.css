@@ -1,0 +1,89 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.container1{
+  
+}
+
+
+/* .Design{
+    font-size: 34px ;
+    font-weight: 400 ;
+    color: #0f032f ;
+     ; */
+}
+.unleashing{
+    font-family: "Gloock_6.0.0_google", Arial ;
+font-size: 58px ;
+font-weight: 400 ;
+color: #0f032f ;
+
+}
+.creative{
+    font-family: "Gloock_6.0.0_google", Arial ;
+font-size: 89px ;
+font-weight: 400 ;
+color: #fad01d ;
+
+margin-top: -20px;
+}
+.brilliance{
+    font-size: 102px ;
+font-weight: 400 ;
+color: #fad01d ;
+margin-top: -35px;
+tex
+}
+.San{
+    font-size: 27px ;
+    font-weight: 400 ;
+    
+margin-top: -10px;
+}
+.schedule{
+    font-family: "Montserrat_26.0.0_google", Arial ;
+font-size: 15px ;
+font-weight: 500 ;
+color: #000000 ;
+background-color: #73c3f9 ;
+border: 1.11111px solid #73c3f9 ;
+border-radius: 19.5px ;
+width: 140px;
+height: 40px;
+margin-top: 25px;
+
+}
+.schedule:hover{
+    background-color: white;
+    transition-duration: 1s;
+}
+.learn{
+    font-family: "Montserrat_26.0.0_google", Arial ;
+font-size: 15px ;
+font-weight: 500 ;
+color: #000000 ;
+background-color: transparent;
+border: 1.11111px solid #73c3f9 ;
+border-radius: 19.5px ;
+width: 140px;
+height: 40px;
+margin-top: 25px;
+margin-left: 32px;
+}
+.learn:hover{
+    background-color: #73c3f9;
+    transition-duration: 1s;
+}
+.tr{
+    font-family: "Gloock_6.0.0_google", Arial ;
+font-size: 54px ;
+font-weight: 400 ;
+color: #0f032f ;
+
+
+}
+.star{
+    position: absolute;
+    margin-top: 25px;
+}
